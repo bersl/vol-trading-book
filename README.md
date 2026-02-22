@@ -28,7 +28,7 @@ This book is a comprehensive guide to volatility trading, designed for intermedi
 - [Chapter 13: Risk Management for Vol Traders](chapters/13-risk-management.md)
 
 ### Part V: Implementation & Analysis
-- [Chapter 14: Building a Vol Trading System](chapters/14-building-vol-system.md)
+- [Chapter 14: Building a Vol Trading System](chapters/14-building-vol-trading-system.md)
 - [Chapter 15: Case Studies](chapters/15-case-studies.md)
 - [Chapter 16: Appendix](chapters/16-appendix.md)
 
